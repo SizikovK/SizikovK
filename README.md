@@ -6,7 +6,7 @@ Python developer focused on AI, backend and practical automation.
 
 ### 🚧 Currently Building
 
-- [**AI Telegram Bot**](https://github.com/SizikovK/ai-tg-bot)  
+- **AI Telegram Bot**  
   Telegram chatbot with AI responses, chat memory and RAG support.
 
 - [**Simple AI Agent**](https://github.com/SizikovK/chat-with-ai)  
