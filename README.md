@@ -18,10 +18,10 @@ Python developer focused on AI, backend and practical automation.
 ## Tech
 
 ### AI / LLM
-`Python` `LangChain` `LangGraph` `RAG` `Ollama` `ChromaDB`
+`Python` `LangChain` `LangGraph` `RAG` `Ollama` `ChromaDB` `MCP`
 
 ### Backend
-`FastAPI` `REST API` `MongoDB`
+`FastAPI` `REST API` `MongoDB` `PostgreSQL` `SQLAlchemy`
 
 ### Frontend
 `React` `TypeScript` `HTML` `CSS`
