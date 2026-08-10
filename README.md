@@ -2,19 +2,6 @@
 
 Python developer focused on AI, backend and practical automation.
 
-## Projects
-
-### 🚧 Currently Building
-
-- **AI Telegram Bot**  
-  Telegram chatbot with AI responses, chat memory and RAG support.
-
-- [**Simple AI Agent**](https://github.com/SizikovK/chat-with-ai)  
-  AI chat app with client-server architecture, authentication and chat history.
-
-- **Mina Agent**  
-  Personal AI assistant focused on coding, document creation, voice interaction and workflow automation.
-
 ## Tech
 
 ### AI / LLM
